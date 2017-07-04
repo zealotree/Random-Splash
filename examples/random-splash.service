@@ -1,0 +1,6 @@
+[Unit]
+Description=Get a new wallpaper from Unsplash
+
+[Service]
+Type=oneshot
+ExecStart=/home/example/bin/getrandomwallpaper.sh
