@@ -16,13 +16,13 @@ Download the script to your ```$PATH```.
 2. Edit the *random_splash.py* script and insert your Client ID. The line should look like this:
 
 	```
-CLIENT_ID = "" # Insert your Client ID HERE
+	CLIENT_ID = "" # Insert your Client ID HERE
 	```
 
 3. (Optional) You may Edit the ```COLLECTION_IDS``` to create a list of collections to pull photos from.
 
 	```
-COLLECTION_IDS = ["306253","208422"]  # Choose a random photo from a list of collections
+	COLLECTION_IDS = ["306253","208422"]  # Choose a random photo from a list of collections
 	```
 
 	For example, this Unsplash Collection by called [Heads Up: https://unsplash.com/collections/**306253**](https://unsplash.com/collections/306253) has a Collection ID of **306253**.
