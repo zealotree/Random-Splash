@@ -11,12 +11,12 @@ Download the script to your ```$PATH```.
 
 ## How to Use
 
-1. Get a Client ID by making an app at [Unsplash Developers](https://unsplash.com/documentation#registering-your-application). 
+1. Get a APPLICATION_ID by making an app at [Unsplash Developers](https://unsplash.com/documentation#registering-your-application). 
 
 2. Edit the *random_splash.py* script and insert your Client ID. The line should look like this:
 
 	```
-	CLIENT_ID = "" # Insert your Client ID HERE
+	APPLICATION_ID = "" # Insert your Application ID HERE
 	```
 
 3. (Optional) You may Edit the ```COLLECTION_IDS``` to create a list of collections to pull photos from.
